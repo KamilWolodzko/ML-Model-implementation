@@ -4,7 +4,7 @@
 <br>/metrics endpoint to get predictions performance metric.</br>
 <br>Whole solution have been written in python 3.9 and using pytest for the tests.</br>
 ### How to create docker
-To create the docker image please use 
+To create the docker image please go to working directory and use 
 <br><b > docker build --tag mldev-interview-docker .</b><br>
 
 ### How to run docker
