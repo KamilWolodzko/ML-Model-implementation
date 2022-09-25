@@ -9,7 +9,7 @@ class DataProcessorXGBRegressor(DataProcessor):
         Prepares user data for XGBRegressor model.
     """
 
-    def __init__(self, data):
+    def __init__(self, data: list[float]):
         """
         Parameters
         ----------
